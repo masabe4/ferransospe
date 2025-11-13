@@ -4,5 +4,5 @@
 /**
  * 
  */
-module pipati {
+module githolamundo {
 }
